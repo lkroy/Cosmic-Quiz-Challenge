@@ -38,11 +38,11 @@ A visually stunning, space-themed quiz application that tests your knowledge of 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/cosmic-quiz-challenge.git
+   git clone https://github.com/lkroy/cosmic-quiz-challenge.git
    ```
 
 2. **Open in browser**:
-   - Simply open `index.html` in any modern web browser
+   - Simply open `index.html`  and 'script.js' in any modern web browser
    - No server required - works completely client-side!
 
 3. **How to play**:
@@ -98,4 +98,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ♥ by Laddu Kumar Roy• 🚀 Shoot for the stars! 🌠
+Made with ❤️ by Laddu Kumar Roy• 🚀 Shoot for the stars! 🌠
